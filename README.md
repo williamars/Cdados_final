@@ -22,6 +22,4 @@ _____________________________________________________________________
 
 ### Obtenção dos dados
 
-Os dados foram obtidos na plataforma Kaggle, pelo link:
-
-**https://www.kaggle.com/slonnadube/recidivism-for-offenders-released-from-prison**
+Os dados foram obtidos na plataforma Kaggle, clicando [aqui](https://www.kaggle.com/slonnadube/recidivism-for-offenders-released-from-prison)!
