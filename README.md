@@ -23,3 +23,15 @@ _____________________________________________________________________
 ### Obtenção dos dados
 
 Os dados foram obtidos na plataforma Kaggle, clicando [aqui](https://www.kaggle.com/slonnadube/recidivism-for-offenders-released-from-prison)!
+
+_____________________________________________________________________
+
+### Explicação dos arquivos
+
+[3-Year_Recidivism_for_Offenders_Released_from_Prison_in_Iowa_elaborated.csv](https://github.com/brunomeneghesso/Cdados_final/blob/master/3-Year_Recidivism_for_Offenders_Released_from_Prison_in_Iowa_elaborated.csv): Arquivo em CSV, que contém os dados obtidos pelo Kaggle.
+
+[3_year_recidivism_elaborated_2.csv](https://github.com/brunomeneghesso/Cdados_final/blob/master/3_year_recidivism_elaborated_2.csv): Segundo arquivo obtido pelo Kaggle. Contém dados também.
+
+[P3 - Arquivo 2.ipynb](https://github.com/brunomeneghesso/Cdados_final/blob/master/P3%20-%20Arquivo%202.ipynb): Arquivo que contém a análise exploratória e o início do projeto.
+
+[P3 - Arquivo Final.ipynb](https://github.com/brunomeneghesso/Cdados_final/blob/master/P3%20-%20Arquivo%20Final.ipynb): Arquivo que contém a análise completa, que será o foco principal do projeto.
