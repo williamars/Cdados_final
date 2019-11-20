@@ -15,7 +15,7 @@ Este projeto consiste em uma análise de dados, pertencente à disciplina Ciênc
 
 Usando métodos estatísticos, o objetivo é realizar um modelo preditivo e este será discutido no arquivo principal, apontando todas as explicações necessárias.
 
-Vale ressaltar que este é o terceiro projeto da disciplina e que o arquivo principal, a ser analisado, é o ["P3 - Arquivo Final.ipynb"](https://github.com/brunomeneghesso/Cdados_final/blob/master/P3%20-%20Arquivo%20Final.ipynb), tendo em vista que os outros são arquivos extras para auxliar no desenvolvimento do projeto.
+Vale ressaltar que este é o terceiro projeto da disciplina e que o arquivo principal, a ser analisado, é o ["P3 - Arquivo Final.ipynb"](https://github.com/williamars/Cdados_final/blob/master/P3%20-%20Arquivo%20Final-Copy1.ipynb), tendo em vista que os outros são arquivos extras para auxliar no desenvolvimento do projeto.
 
 Este projeto visa à predição da reincidência de um preso à detenção, dadas algumas características sobre ele/ela, usando regressão *random forest*.
 
