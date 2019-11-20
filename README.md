@@ -2,7 +2,8 @@
 
 ### Alunos
 
-Beatriz Cabral | Bruno Meneghesso | Jonas Lopes | William Silva
+[Beatriz Cabral](https://github.com/beatrizcf2) | [Bruno Meneghesso](https://github.com/brunomeneghesso) | [Jonas Lopes](https://github.com/JonasLopes19) | [William Silva](https://github.com/williamars)
+
 
 ### Professor 
 
